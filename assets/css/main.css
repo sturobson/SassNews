@@ -35,12 +35,14 @@ img {
 /* Links
 -------------------------------------------------- */
 a {
+  border-bottom: 1px solid transparent;
   color: #484c55;
   text-decoration: none;
-  transition: color .3s, background .3s, border .3s;
+  transition: color .3s, border .3s;
 }
 a:hover {
-  color: #b37399;
+  color: #c69;
+  border-bottom-color: #c69;
 }
 
 
@@ -65,7 +67,7 @@ body {
   margin: 0 auto;
   font-size: 1em;
   line-height: 1.5em;
-  padding: 1.5em;
+  padding: 1em;
   max-width: 50em;
   background: #f2ece4;
   color: #484c55;
@@ -80,8 +82,12 @@ body {
   position: relative;
 }
 .logo {
+  border-bottom: 0;
   display: block;
   margin-bottom: 1.5em;
+}
+.logo:hover {
+  border-bottom: 0;
 }
 .logo img {
   width: 180px;
@@ -96,7 +102,7 @@ body {
   color: #222;
 }
 .menu__link a:hover {
-  color: #b37399;
+  color: #c69;
   text-decoration: none;
 }
 .menu__link .active {
@@ -216,11 +222,7 @@ h1 a, h2 a, h3 a, h4 a {
   margin-right: 2em;
   color: #b37399;
 }
-.meta li b {
-  font-weight: 400;
-  color: #000;
-  padding-right: .25em;
-}
+
 
 
 /* Project teaser
@@ -245,8 +247,8 @@ h1 a, h2 a, h3 a, h4 a {
 @media screen and (min-width: 50em) {
   .archive__item {
     float: left;
-    width: 46%;
-    margin-left: 8%;
+    width: 47.5%;
+    margin-left: 5%;
   }
   .archive__item:nth-of-type(2n+1) {
     clear: left;
@@ -255,26 +257,11 @@ h1 a, h2 a, h3 a, h4 a {
 }
 
 
-/* Next/Prev nav
--------------------------------------------------- */
-.nextprev {
-  padding: 1em 0;
-}
-.nextprev a {
-  border: 0;
-}
-.nextprev .prev {
-  float: left;
-}
-.nextprev .next {
-  float: right;
-}
-
 
 /* Footer
 -------------------------------------------------- */
 .footer {
-  padding: 1em 0 6em;
+  padding: 1em 0 0em;
   font-size: .8em;
 }
 .copyright {
@@ -283,7 +270,7 @@ h1 a, h2 a, h3 a, h4 a {
 .colophon {
   float: right;
 }
-.colophon a b {
+.colophon a {
   color: #b37399;
   padding-left: .25em;
 }
@@ -299,6 +286,7 @@ h1 a, h2 a, h3 a, h4 a {
   width: 80%;
   margin: 0 auto;
 }
+.contactform-input,
 .signup .email {
   background-color: #fff;
   border-radius: 4px;
@@ -306,7 +294,9 @@ h1 a, h2 a, h3 a, h4 a {
   padding: 0.6em 1em;
   width: 100%;
 }
-
+.contactform-input {
+  margin-bottom: 1em;
+}
 .signup {
   background-color: #e1d7d2;
   border-radius: 4px;
@@ -324,14 +314,11 @@ h1 a, h2 a, h3 a, h4 a {
   border-bottom: 1px solid #b37399;
 }
 
-.latest {
+.latest h2 {
   text-align: center;
 }
 
-.latest__item li {
-  text-align: left;
-}
-
+.contactform-button,
 .signup .button {
   background-color: #fff;
   border-radius: 4px;
@@ -342,6 +329,13 @@ h1 a, h2 a, h3 a, h4 a {
   padding: 0.5em 1em;
   clear: both;
   width: 100%;
+  cursor: pointer;
+  transition: background-color .3s, color .3s;
+}
+.contactform-button:hover,
+.signup .button:hover {
+  color: #fff;
+  background-color: #C69;
 }
 
 .mc-field-group {
@@ -349,20 +343,30 @@ h1 a, h2 a, h3 a, h4 a {
   width: 100%;
 }
 .pagination {
+  clear: both;
+  float: left;
   margin-bottom: 1em;
+  width: 100%;
 }
 .prev {
   margin-left: 1em;
 }
 
 @media (min-width: 500px){
-  .latest__item ul {
+  body {
+    padding: 1.5em;
+  }
+  .latest__item {
     margin: 0 auto;
     max-width: 80%;
   }
+  .contactform-button,
   .signup .button {
     clear: none;
     width: 30%;
+  }
+  .contactform-button {
+    float: right;
   }
   .mc-field-group {
     float: left;
@@ -372,8 +376,22 @@ h1 a, h2 a, h3 a, h4 a {
   .signup .email {
     width: 95%;
   }
+  .contactform-label {
+    float: left;
+    width: 10%;
+    padding: 0.6em 1em;
+  }
+  .contactform-input {
+    width: 70%;
+  }
   .prev {
     float: right;
     margin-left: 0;
   }
+}
+
+.archive__item {
+  background-color: #E1D7D2;
+  border-radius: 4px;
+  padding: 1em 1em;
 }

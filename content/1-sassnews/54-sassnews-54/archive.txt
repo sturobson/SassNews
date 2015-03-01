@@ -14,7 +14,7 @@ Text:
 - [Using Number Functions in Sass](http://codepen.io/charlespeters/blog/using-number-functions-in-sass)
 - [Viewport-Relative Headings with Sass](http://sassbreak.com/viewport-relative-headings-with-sass/)
 - [How to get an accurate contrast color with Sass](https://medium.com/@tonipinel/how-to-get-an-accurate-contrast-color-with-sass-b0ebc01bf17f)
-- [https://medium.com/@internetross/dryer-sass-with-placeholders-dae6850c9cba](http://www.zell-weekeat.com/grunt-sass-with-susy/)
+- [Configuring Grunt To Use LibSass With Susy](http://www.zell-weekeat.com/grunt-sass-with-susy/)
 - [Sass Bites #69: Front-end Architecture with Ben Frain](https://www.youtube.com/watch?v=WUEObwtgvyI)
 - [How to Create a Simple Alert with Sass](http://inspirationalpixels.com/tutorials/simple-alert-with-sass)
 - [Custom CSS3 Checkbox with Sass](https://andycrone.com/custom-css3-checkbox-sass/)

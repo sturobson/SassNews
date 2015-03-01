@@ -12,7 +12,7 @@ Tags: city
 
 Text:
 
-- [Breakpoint and Tweakpoints in Sass](Breakpoints and Tweakpoints in Sass)
+- [Breakpoint and Tweakpoints in Sass](http://www.sitepoint.com/breakpoints-tweakpoints-sass/)
 - [Making Use of Sass’ Zip() Function](http://www.sitepoint.com/making-use-sass-zip-function/)
 - [--watch Yo' Sass](http://sassbreak.com/watch-your-sass/)
 - [CSS Blend Modes with Sass](http://sassbreak.com/css-blend-modes-with-sass/)
