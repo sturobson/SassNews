@@ -348,6 +348,12 @@ h1 a, h2 a, h3 a, h4 a {
   margin-bottom: 1em;
   width: 100%;
 }
+.pagination {
+  margin-bottom: 1em;
+}
+.prev {
+  margin-left: 1em;
+}
 
 @media (min-width: 500px){
   .latest__item ul {
@@ -365,5 +371,9 @@ h1 a, h2 a, h3 a, h4 a {
   }
   .signup .email {
     width: 95%;
+  }
+  .prev {
+    float: right;
+    margin-left: 0;
   }
 }

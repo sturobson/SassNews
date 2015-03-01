@@ -1,5 +1,21 @@
 
 <?php $archives = page('sassnews')->children()->visible()->flip()->paginate(10) ?>
+
+<?php if($archives->pagination()->hasPages()): ?>
+<nav class="pagination">
+
+  <?php if($archives->pagination()->hasNextPage()): ?>
+  <a class="next" href="<?php echo $archives->pagination()->nextPageURL() ?>">&lsaquo; older posts</a>
+  <?php endif ?>
+
+  <?php if($archives->pagination()->hasPrevPage()): ?>
+  <a class="prev" href="<?php echo $archives->pagination()->prevPageURL() ?>">newer posts &rsaquo;</a>
+  <?php endif ?>
+
+</nav>
+<?php endif ?>
+
+
 <ul class="archive__list">
   <?php foreach($archives as $archive): ?>
   <li class="archive__item">
@@ -14,11 +30,11 @@
 <nav class="pagination">
 
   <?php if($archives->pagination()->hasNextPage()): ?>
-  <a class="next" href="<?php echo $archives->pagination()->nextPageURL() ?>">&lsaquo; newer posts</a>
+  <a class="next" href="<?php echo $archives->pagination()->nextPageURL() ?>">&lsaquo; older posts</a>
   <?php endif ?>
 
   <?php if($archives->pagination()->hasPrevPage()): ?>
-  <a class="prev" href="<?php echo $archives->pagination()->prevPageURL() ?>">older posts &rsaquo;</a>
+  <a class="prev" href="<?php echo $archives->pagination()->prevPageURL() ?>">newer posts &rsaquo;</a>
   <?php endif ?>
 
 </nav>
