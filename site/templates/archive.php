@@ -4,7 +4,8 @@
   <article class="archive">
     <h2 class="archive__title"><?php echo $page->title()->html() ?></h2>
     <div class="archive__meta">
-      <p><strong>Published:</strong> <time datetime="<?php echo $page->date('c') ?>"><?php echo $page->date('Y', 'year') ?></time></p>
+      <p><strong>Published:</strong> <?php echo $page->published() ?></p>
+
     </div>
 
     <div class="archive__content">

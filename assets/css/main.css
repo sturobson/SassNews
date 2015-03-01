@@ -303,9 +303,8 @@ h1 a, h2 a, h3 a, h4 a {
   background-color: #fff;
   border-radius: 4px;
   font-size: 16px;
-  width: 95%;
-  margin-left: 2%;
   padding: 0.6em 1em;
+  width: 100%;
 }
 
 .signup {
@@ -314,7 +313,7 @@ h1 a, h2 a, h3 a, h4 a {
   margin-bottom: 1.5em;
   padding: 2em 0;
 }
-
+.archive__content li,
 .archive__item li,
 .latest__item li {
   list-style-type: none;
@@ -329,12 +328,6 @@ h1 a, h2 a, h3 a, h4 a {
   text-align: center;
 }
 
-@media (min-width: 500px){
-  .latest__item ul {
-    margin: 0 auto;
-    max-width: 80%;
-  }
-}
 .latest__item li {
   text-align: left;
 }
@@ -347,10 +340,30 @@ h1 a, h2 a, h3 a, h4 a {
   font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, Verdana, sans-serif;
   font-size: 16px;
   padding: 0.5em 1em;
-  width: 30%;
+  clear: both;
+  width: 100%;
 }
 
 .mc-field-group {
-  float: left;
-  width: 70%;
+  margin-bottom: 1em;
+  width: 100%;
+}
+
+@media (min-width: 500px){
+  .latest__item ul {
+    margin: 0 auto;
+    max-width: 80%;
+  }
+  .signup .button {
+    clear: none;
+    width: 30%;
+  }
+  .mc-field-group {
+    float: left;
+    margin-bottom: 0;
+    width: 70%;
+  }
+  .signup .email {
+    width: 95%;
+  }
 }
