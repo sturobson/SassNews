@@ -1,0 +1,17 @@
+Title: Sass News
+
+----
+
+Author: Stuart Robson
+
+----
+
+Description: The Sass News Weekly Email Newsletter Website.
+
+----
+
+Keywords: Sass, Sass News, SCSS
+
+----
+
+Copyright: © 2009-(date: Year) (link: http://alwaystwisted.com text: Stuart Robson)

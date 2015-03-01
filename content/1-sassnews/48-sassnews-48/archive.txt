@@ -1,0 +1,23 @@
+Title: Sass News #48
+
+----
+
+Year: 2013
+
+----
+
+Tags: city
+
+----
+
+Text:
+
+[Manage RTL CSS with Sass and Grunt](http://www.sitepoint.com/manage-rtl-css-sass-grunt/)
+[Sass Basics: The Mixin Directive](http://www.sitepoint.com/sass-basics-the-mixin-directive/)
+[Sass Bites #64 - Introduction to Front-end Architecture](https://www.youtube.com/watch?v=DAN_Q0Iy6c0)
+[Smoothing Responsive Designs with +spread](http://viget.com/inspire/responsive-design-with-spread)
+[Magical Config Objects with Sass Maps](http://codepen.io/AdamBlum/blog/config-objects-with-sass-maps)
+[CSS, Sass, SCSS, Compass, Less, BEM, SMACSS, OOCSS, ACSS, CCSS, WTFSS?](http://www.leemunroe.com/css/)
+[Converting CSS to Sass (And Cleaning Things Up in the Process)](http://terrificwebdesign.net/converting-css-sass/)
+[Introducing Sass Guidelines](http://hugogiraudel.com/2015/01/07/introducing-sass-guidelines/)
+[Evernote's Sass Build Structure](https://github.com/evernote/sass-build-structure)

@@ -1,0 +1,23 @@
+Title: Sass News #33
+
+----
+
+Year: 2013
+
+----
+
+Tags: city
+
+----
+
+Text:
+
+[How I improved my workflow with SMACSS & Sass](http://bramsmulders.com/how-i-improved-my-workflow-with-smacss-sass.html)
+[Writing modular CSS selectors in BEM style with Sass 3.3](https://medium.com/@paptamas/writing-modular-css-selectors-in-bem-style-with-sass-3-4-2e6449d83212)
+[Getting Started with Sass, Part 2](http://webstandardssherpa.com/reviews/getting-started-with-sass-part-2)
+[A Bulletproof Function to Validate Length Values in Sass](http://www.sitepoint.com/bulletproof-function-validate-length-values-sass/)
+[Sass Bites #52 - The Road to Sass Conf - Smith Schwartz](https://www.youtube.com/watch?v=6CJVP8SVIEg)
+[Sass & CSS Style Guide](http://www.liveeditorcms.com/gc/playbook/sass-css-style-guide/)
+[Sass Bites #53 - The Road to Sass Conf - with Anthony DiSpezio](https://www.youtube.com/watch?v=trbMotBqam0)
+[Functions in CSS? No.. in Sass? Yes!](https://japo32.wordpress.com/2014/09/18/functions-in-css-no-in-sass-yes/)
+[Import Once in Sass the 'Foundation Way'](http://4waisenkinder.de/blog/2014/03/06/import-once-in-sass-the-foundation-way/)

@@ -1,0 +1,23 @@
+Title: Sass News #53
+
+----
+
+Year: 2013
+
+----
+
+Tags: city
+
+----
+
+Text:
+
+[Breakpoint and Tweakpoints in Sass](Breakpoints and Tweakpoints in Sass)
+[Making Use of Sass’ Zip() Function](http://www.sitepoint.com/making-use-sass-zip-function/)
+[--watch Yo' Sass](http://sassbreak.com/watch-your-sass/)
+[CSS Blend Modes with Sass](http://sassbreak.com/css-blend-modes-with-sass/)
+[Configuring Grunt To Use LibSass With Susy](http://www.zell-weekeat.com/grunt-sass-with-susy/)
+[Using Libsass Today](http://codecraft.vaamo.de/2015/02/12/using-libsass-today.html)
+[Sass Bites #68 - Front-end Architecture with Welch Canavan](https://www.youtube.com/watch?v=YoriXiaviCE)
+[Pagination](http://codyhouse.co/gem/css-pagination/)
+[Sass Mixin Library](http://www.himpfen.com/sass-mixin-library/)

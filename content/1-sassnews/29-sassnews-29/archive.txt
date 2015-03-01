@@ -1,0 +1,21 @@
+Title: Sass News #29
+
+----
+
+Year: 2013
+
+----
+
+Tags: city
+
+----
+
+Text:
+
+[Level Up Sass Tutorials](https://www.youtube.com/playlist?list=PL2CB1F80266E986EA)
+[Keep Sass Simple](http://www.sitepoint.com/keep-sass-simple/)
+[Modular Pseudo-Elements with Sass](http://blog.teamtreehouse.com/modular-pseudo-elements-sass)
+[5 reasons you should be using Sass today](http://www.webdesignerdepot.com/2014/08/5-reasons-you-should-be-using-sass-today/)
+[Rapid Responsive Development with Sass and Flint](http://www.sitepoint.com/rapid-responsive-development-sass-flint/)
+[SassMe!](https://github.com/una/sassme)
+[A basic example of deep searching in Sass maps](http://codepen.io/ChrisUpjohn/blog/a-basic-example-of-deep-searching-in-sass-maps)

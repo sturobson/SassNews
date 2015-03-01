@@ -1,0 +1,24 @@
+Title: Sass News #50
+
+----
+
+Year: 2013
+
+----
+
+Tags: city
+
+----
+
+Text:
+
+[The Ultimate Long-shadow Sass Mixin](The Ultimate Long-shadow Sass Mixin)
+[A Dynamic Gradient Text Function in Sass](http://www.sitepoint.com/dynamic-gradient-text-function-sass/)
+[Making Inline Media Queries Even Better with Breakpoint Sass](http://webdevstudios.com/2015/01/20/better-media-queries-breakpoint-sass/)
+[rem with Sass](http://tech-hive.com/front-end/rem-with-sass-20150124/)
+[Getting to Know LibSass](http://webdesign.tutsplus.com/articles/getting-to-know-libsass--cms-23114)
+[Sass Bites #65 - Front-end Architecture with Brad Frost](https://www.youtube.com/watch?v=lBs6BZUHINU)
+[Learning Sass with CodePen, Part One](http://demosthenes.info/blog/978/Learning-Sass-with-CodePen-Part-One)
+[Learning Sass with CodePen, Part Two: Nesting](http://demosthenes.info/blog/979/Learning-Sass-with-CodePen-Part-Two-Nesting)
+[Learning Sass with CodePen, Part Three: extend](http://demosthenes.info/blog/981/Learning-Sass-with-CodePen-Part-Three-extend)
+[SpaceBase](http://spacebase.space150.com/)

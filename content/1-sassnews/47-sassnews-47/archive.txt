@@ -1,0 +1,22 @@
+Title: Sass News #47
+
+----
+
+Year: 2013
+
+----
+
+Tags: city
+
+----
+
+Text:
+
+[Sass Guidelines](http://sass-guidelin.es/)
+[Better Sass variables through abstraction](http://craigmdennis.com/articles/better-sass-variables)
+[Sinatra and Bourbon – Web Development My Way](http://www.sitepoint.com/sinatra-bourbon-web-development-way/)
+[Video: Getting Started with Sass in Foundation](http://www.sitepoint.com/video-getting-started-sass-foundation/)
+[Working with Sass style sheets in Office 365 / SharePoint 2013](https://tommdaly.wordpress.com/2015/01/03/working-with-sass-style-sheets-in-office-365-sharepoint-2013/)
+[Write Simple, Elegant and Maintainable Media Queries with Sass](http://davidwalsh.name/sass-media-query)
+[Introducing “daisy” a Sass/pattern-lab workflow solution using Vagrant](http://www.daigo.org/2014/11/introducing-daisy-a-sasspattern-lab-workflow-solution-using-vagrant/)
+[Consitent Flexible Grids](https://github.com/andrewjtait/conflexgrids)

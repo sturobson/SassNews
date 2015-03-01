@@ -1,0 +1,23 @@
+Title: Sass News #38
+
+----
+
+Year: 2013
+
+----
+
+Tags: city
+
+----
+
+Text:
+
+[Using Object-Oriented CSS with Sass](http://thesassway.com/intermediate/using-object-oriented-css-with-sass)
+[Sass Grids: From Neat To Susy](http://www.sitepoint.com/sass-grids-neat-susy/)
+[Dealing With Constants In Sass](http://www.sitepoint.com/dealing-constants-sass/)
+[Cubic Bézier representation in Sass](http://thesassway.com/advanced/cubic-bezier-representation-in-sass)
+[Sass MQ](https://github.com/sass-mq/sass-mq)
+[Sass Bites #58 - Hologram Style Guide](https://www.youtube.com/watch?v=tsL7EeRcZRE)
+[Sass Partials and The Problems Surrounding Them](https://medium.com/@timodwhit/sass-partials-and-the-problems-surrounding-them-1d9217aa6dee)
+[Classical mixin inheritance in Sass](http://hashrocket.com/blog/posts/classical-mixin-inheritance-in-sass)
+[Declaring a CSS Animation @keyframes Directly on an Element using Sass](https://medium.com/@dtinth/declaring-a-css-animation-keyframes-directly-on-an-element-using-sass-f091a0a15dbd)

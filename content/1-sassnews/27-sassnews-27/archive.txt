@@ -1,0 +1,25 @@
+Title: Sass News #27
+
+----
+
+Year: 2013
+
+----
+
+Tags: city
+
+----
+
+Text:
+
+[Everything you need to know about Sass 3.4](http://www.phase2technology.com/blog/everything-you-need-to-know-about-sass-3-4/)
+[Sass Bites #44 - Sass 3.4 Preview](https://www.youtube.com/watch?v=I_M--ZENKBc)
+[Sass Bites #45 - Sass 3.4 and selector-replace( )](https://www.youtube.com/watch?v=o4ok4gsiQSw)
+[Using IF Statements In Sass](http://www.paulund.co.uk/using-statements-sass)
+[One Sass Color to Rule Them All](http://www.elijahmanor.com/one-sass-color-to-rule-them-all/)
+[Animenu - a responsive dropdown navigation made with Sass](http://red-team-design.com/animenu-a-responsive-dropdown-navigation-made-with-sass/)
+[Sassy Starter](https://github.com/minamarkham/sassy-starter)
+[ConciseCSS](http://concisecss.com/)
+[Stop using Javascript Tooltips](http://hackingui.com/front-end/scss-tooltips/)
+[Getting Started with Sass and Bourbon](http://www.sitepoint.com/getting-started-sass-bourbon/)
+[Self Correcting Grid. No classes!](http://codepen.io/heydon/pen/bcdrl)

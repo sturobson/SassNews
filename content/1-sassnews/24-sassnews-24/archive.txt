@@ -1,0 +1,24 @@
+Title: Sass News #24
+
+----
+
+Year: 2013
+
+----
+
+Tags: city
+
+----
+
+Text:
+
+[Tips to Help You Level Up Your Sass](http://www.sitepoint.com/tips-help-level-up-sass/)
+[Exploring Maps In Sass 3.3(Part 4): Improving the map-get function](http://www.phase2technology.com/blog/exploring-maps-in-sass-3-3part-4-improving-the-map-get-function/)
+[A Simple Responsive Grid, Made Even Better With Sass](http://webdesign.tutsplus.com/tutorials/a-simple-responsive-grid-made-even-better-with-sass--cms-21540)
+[Using Sass at Full Power](https://medium.com/@BHouwens/using-sass-at-full-power-de8bcb5f3e7b)
+[Putting the FUN in Sass Color Functions](http://seesparkbox.com/foundry/putting_the_fun_in_sass_color_functions)
+[Building a customization API in Sass](http://hugogiraudel.com/2014/07/01/building-a-customization-api-in-sass/)
+[Quotation-Marks](http://quotation-marks.org/)
+[Speech Bubble SASS Mixin](http://www.paulund.co.uk/speech-bubble-sass-mixin)
+[Creating a Custom Breakpoint in Bootstrap-Sass](http://www.gizra.com/content/custom-breakpoint-bootstrap-sass/)
+[Flexy](https://github.com/Guilh/Flexy)

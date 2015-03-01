@@ -1,0 +1,20 @@
+Title: Sass News #20
+
+----
+
+Year: 2013
+
+----
+
+Tags: city
+
+----
+
+Text:
+
+[Inverse trigonometric functions with Sass](http://thesassway.com/advanced/inverse-trigonometric-functions-with-sass)
+[Sass Frameworks: Compass or Bourbon?](http://www.sitepoint.com/compass-or-bourbon-sass-frameworks/)
+[DRY Colour Classes in Sass](http://pad.gs/2014/05/23/dry-colour-classes-in-sass/)
+[Simplify font size with rems](http://guyroutledge.co.uk/blog/simplify-font-size-with-rems/)
+[Sass Bites #40 - Front-end Diffing Tools](https://www.youtube.com/watch?v=L7LItbRpfZc)
+[Sassy Maps](https://github.com/at-import/Sassy-Maps)

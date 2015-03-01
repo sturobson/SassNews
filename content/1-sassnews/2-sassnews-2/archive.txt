@@ -1,0 +1,22 @@
+Title: Sass News #2
+
+----
+
+Year: 2013
+
+----
+
+Tags: city
+
+----
+
+Text:
+
+[Luigi: The BozBoz Sass Framework](https://github.com/bozboz/luigi)
+[Sass Parallax Demo (CodePen)](http://codepen.io/scottkellum/pen/bHEcA)
+[Create manageable Sass components (to use with Bower, etc.)](http://fettblog.eu/blog/2014/01/13/manageable-sass-components/)
+[Sassy Sinatra](http://www.millwoodonline.co.uk/blog/sassy-sinatra)
+[Sass Bites #22: The @at-root directive](https://www.youtube.com/watch?v=TyQQy856d_I)
+[SassyCast: Type Conversion In Sass](http://hugogiraudel.com/2014/01/27/casting-types-in-sass/)
+[Choosing Great Variable Names](http://thesassway.com/beginner/variable-naming)
+[How I Write My Sass](http://alwaystwisted.com/post.php?s=2013-12-29-how-i-write-my-sass)

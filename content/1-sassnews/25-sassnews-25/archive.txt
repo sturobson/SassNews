@@ -1,0 +1,22 @@
+Title: Sass News #25
+
+----
+
+Year: 2013
+
+----
+
+Tags: city
+
+----
+
+Text:
+
+[Using Sass maps to manage color schemes](http://now.violet.is/color-scheming)
+[Building a layout system](http://quagliero.github.io/posts/building-a-layout-system/)
+[Using Sass Breakpoints Effectively](http://www.mediacurrent.com/blog/using-breakpoints-effectively)
+[Using Sass at Full Power: Part 2 — Setting Up a Scalable Boilerplate](https://medium.com/@BHouwens/using-sass-at-full-power-2ad6969e2f17)
+[Dynamically Create Classes With Sass](http://www.paulund.co.uk/dynamically-create-css-classes-sass)
+[How to Check for Dependencies in Sass Libraries](http://webdesign.tutsplus.com/tutorials/how-to-check-for-dependencies-in-sass-libraries--cms-21558)
+[Simplify CSS maintenance and organization by using Sass](http://www.techrepublic.com/article/simplify-css-maintenance-and-organization-by-using-sass/)
+[Hint.css](http://kushagragour.in/lab/hint/)

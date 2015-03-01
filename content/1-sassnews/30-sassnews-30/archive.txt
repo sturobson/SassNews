@@ -1,0 +1,36 @@
+Title: Sass News #30
+
+----
+
+Year: 2013
+
+----
+
+Tags: city
+
+----
+
+Text:
+
+[Sass 3.4 Is Out!](http://www.sitepoint.com/sass-3-4-is-out/)
+[Compass 1.0 is released](http://compass-style.org/blog/2014/08/15/omg-compass-1-0/)
+[Sass Community Guidelines](http://sass-lang.com/community-guidelines)
+[SCSS @extends Across Media Queries](http://codepen.io/jakob-e/pen/jKyuq)
+[BEM, Sass and Bootstrap: how to mix everything up in a smart way?](https://medium.com/@andersonorui_/bem-sass-and-bootstrap-9f89dc07d20f)
+[Using Sass to Build a Custom Type Scale with Vertical Rhythm](http://www.sitepoint.com/using-sass-build-custom-type-scale-vertical-rhythm/)
+[Pushing BEM to the next level with Sass 3.4](https://medium.com/@marcmintel/pushing-bem-to-the-next-level-with-sass-3-4-5239d2371321)
+[Used and Abused – CSS Inheritance and Our Misuse of the Cascade](http://www.phase2technology.com/blog/used-and-abused-css-inheritance-and-our-misuse-of-the-cascade/)
+[Sass Bites #47 - Putting Susy Grids to Work](https://www.youtube.com/watch?v=rBKfH8UTn7w)
+[Sass Bites #48 - Susy Grid Grab Bag](https://www.youtube.com/watch?v=O8APW7ogrIw)
+[Sass Bites #49 - The Road to Sass Conf - Mason Wendell](https://www.youtube.com/watch?v=Ji4Rc9Wn0BA)
+[Sass 3.4 is Released](http://sass.logdown.com/posts/221239-sass-34-is-released)
+[SCSS Flex Grid](https://github.com/matthewsimo/scss-flex-grid)
+[css2scss](http://sebastianpontow.de/css2compass/)
+[A Look at Different Sass Architectures](http://www.sitepoint.com/look-different-sass-architectures/)
+[Using Sass’ if to create css triangles](https://medium.com/@andersonorui_/using-sass-if-to-create-css-triangles-c74322413207)
+[5 Ways to Improve Your Sass with Bourbon](http://www.sitepoint.com/5-ways-improve-sass-bourbon/)
+[How to write Sass within Chromes DevTools using Workspaces and Auto-reload](http://www.amazeelabs.com/en/How-to-write-Sass-within-Chromes-DevTools-using-Workspaces-and-Auto-reload)
+[Writing Sass for Shopify without fucking up your normal workflow.](https://medium.com/@josephbergdoll/writing-sass-for-shopify-22c7568dd8f2)
+[Gulpin Sass to CSS](http://rikschennink.nl/thoughts/gulpin-sass-to-css/)
+[Using Grunt, bootstrap, Compass and Sass in a Drupal sub theme](https://www.deeson.co.uk/labs/using-grunt-bootstrap-compass-and-sass-drupal-sub-theme)
+[Upgrading to Compass 1.0](https://medium.com/@enemyjeff/upgrading-to-compass-1-0-a9ccc2342cd9)

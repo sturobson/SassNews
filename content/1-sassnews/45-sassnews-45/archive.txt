@@ -1,0 +1,22 @@
+Title: Sass News #45
+
+----
+
+Year: 2013
+
+----
+
+Tags: city
+
+----
+
+Text:
+
+[Functional Wrappers in Sass](http://www.sitepoint.com/functional-wrappers-sass/)
+[Sass for Big Sites, Part 1](http://webstandardssherpa.com/reviews/sass-for-big-sites-part-1)
+[Introducing Sass-Compatibility](http://www.sitepoint.com/introducing-sass-compatibility/)
+[An Auto-Enforceable SCSS Styleguide](http://davidtheclark.com/scss-lint-styleguide/)
+[Real Sass, Real Maps](http://blog.grayghostvisuals.com/sass/real-sass-real-maps/)
+[Increasing Sass Compiling Performance or "When Every Second Counts”](https://www.devbridge.com/articles/increasing-sass-compiling-performance-or-when-every-second-counts/)
+[Sass mixin to declare breakpoints](http://codepen.io/nabaroa/pen/RNRevB)
+[Christmassy CSS baubles!](http://codepen.io/jackarmley/pen/zxKGXo)

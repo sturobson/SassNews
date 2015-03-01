@@ -1,0 +1,23 @@
+Title: Sass News #16
+
+----
+
+Year: 2013
+
+----
+
+Tags: city
+
+----
+
+Text:
+
+[DoCSSa](http://docssa.info/)
+[Creating a Repeatable Style Pattern with Sass: Placeholders vs. Mixins](http://jdsteinbach.com/css/sass/creating-repeatable-style-pattern-sass-placeholders-vs-mixins/)
+[Creating a Dead Simple Sass Mixin to Handle Responsive Breakpoints](https://medium.com/@timknight/creating-a-dead-simple-sass-mixin-to-handle-responsive-breakpoints-889927b37740)
+[[Sass] Mixin for inside borders](https://medium.com/@ricardozea/sass-mixin-for-inside-borders-7088a60592ff)
+[Bringing configuration objects to Sass](http://hugogiraudel.com/2014/05/05/bringing-configuration-objects-to-sass/)
+[The Perfect Sunset, Part II: Luminous Colors With Sass](http://revoltpuppy.com/articles/40/creating-luminous-colors-with-sass)
+[Sass Bites #36 - Jina Bolton](https://www.youtube.com/watch?v=tfLgOOgYji8)
+[Sass Button Mixins for Fun & Profit](http://hashrocket.com/blog/posts/sass-button-mixins-for-fun-profit)
+[SpriteOwl](http://spriteowl.owl-stars.com/)

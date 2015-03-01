@@ -1,0 +1,12 @@
+Title: Sass News #1
+
+----
+
+Text: 
+
+[Sassier (BE)Modifiers](http://viget.com/extend/bem-sass-modifiers)
+[SassyJSON: Talk To The Browser](http://hugogiraudel.com/2014/01/20/json-in-sass/)
+[Sass Bites #21: Source Maps and Chrome Workspaces](https://www.youtube.com/watch?v=dzbAtpgPZQE)
+[Quickdraw](https://github.com/sethen/quickdraw)
+[Colour Magic With Sass](http://internet-inspired.com/wrote/colour-magic-with-sass/)
+[8 Sass mixins you must have in your toolbox](http://zerosixthree.se/8-sass-mixins-you-must-have-in-your-toolbox/)

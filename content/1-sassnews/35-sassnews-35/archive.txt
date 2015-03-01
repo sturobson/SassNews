@@ -1,0 +1,21 @@
+Title: Sass News #35
+
+----
+
+Year: 2013
+
+----
+
+Tags: city
+
+----
+
+Text:
+
+[Managing Color Values with Sass](http://www.sitepoint.com/managing-color-values-with-sass/)
+[SassConf 2014 Resource Roundup](http://unakravets.tumblr.com/post/98971370655/sass-conf-resources)
+[Sass Bites #55 - Intro to Grunt](https://www.youtube.com/watch?v=QSXyeFA_LYk)
+[How to Create Off Canvas Layouts with Susy](http://www.zell-weekeat.com/off-canvas-layouts-susy/)
+[--csstyle](http://www.csstyle.io/)
+[Pure CSS Tic-tac-toe](http://codepen.io/ziga-miklic/pen/Fagmh)
+[A Sass Primer with Claudina Sarahe](http://hanselminutes.com/443/a-sass-primer-with-claudina-sarahe)

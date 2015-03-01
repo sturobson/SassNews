@@ -1,0 +1,23 @@
+Title: Sass News #17
+
+----
+
+Year: 2013
+
+----
+
+Tags: city
+
+----
+
+Text:
+[Scss-Styleguide with BEM, OOCSS & SMACSS](http://geek-rocket.de/frontend-development/scss-styleguide-with-bem-oocss-smacss/)
+[How to dynamically change text color based on a background color](http://thesassway.com/intermediate/dynamically-change-text-color-based-on-its-background-with-sass)
+[Sass Color Variables That Don’t Suck](http://davidwalsh.name/sass-color-variables-dont-suck)
+[Modernizr Sass mixin](http://hugogiraudel.com/2014/05/12/modernizr-sass-mixin/)
+[When and How to Support Multiple Versions of Sass](http://webdesign.tutsplus.com/articles/when-and-how-to-support-multiple-versions-of-sass--cms-20935)
+[Improving Sass code quality on theguardian.com](http://www.theguardian.com/info/developer-blog/2014/may/13/improving-sass-code-quality-on-theguardiancom)
+[The Perfect Sunset, Part III: Dynamic Colors With Sass And Media Queries](http://revoltpuppy.com/articles/41/the-perfect-sunset-part-iii-dynamic-colors-with-sass-and-media-queries)
+[Sass Mixins to Kickstart Your Project](http://www.sitepoint.com/sass-mixins-kickstart-project/)
+[Sass Bites #37 - Claudina Sarahe](https://www.youtube.com/watch?v=BtWaFDpyDCI)
+[Kaelig Deloumeau-Prigent - Front-end London April 2014](https://www.youtube.com/watch?v=DAfW1RSWYDA)
