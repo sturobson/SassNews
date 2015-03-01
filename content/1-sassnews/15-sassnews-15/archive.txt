@@ -12,10 +12,10 @@ Tags: city
 
 Text:
 
-[What’s the Difference Between Sass and SCSS?](http://www.sitepoint.com/whats-difference-sass-scss/)
-[Sass Maps](https://jonsuh.com/blog/sass-maps/)
-[The Perfect Sunset, Part I: Better Colors With Sass](http://revoltpuppy.com/articles/39)
-[Casting a map into a list in Sass](http://hugogiraudel.com/2014/04/28/casting-map-into-list/)
-[Sass Bites #35 - Elyse Holladay](https://www.youtube.com/watch?v=9Yd_L2ODfY0)
-[otfeatures](https://github.com/jpamental/otfeatures)
-[SassyIcons](https://github.com/pascalduez/SassyIcons)
+- [What’s the Difference Between Sass and SCSS?](http://www.sitepoint.com/whats-difference-sass-scss/)
+- [Sass Maps](https://jonsuh.com/blog/sass-maps/)
+- [The Perfect Sunset, Part I: Better Colors With Sass](http://revoltpuppy.com/articles/39)
+- [Casting a map into a list in Sass](http://hugogiraudel.com/2014/04/28/casting-map-into-list/)
+- [Sass Bites #35 - Elyse Holladay](https://www.youtube.com/watch?v=9Yd_L2ODfY0)
+- [otfeatures](https://github.com/jpamental/otfeatures)
+- [SassyIcons](https://github.com/pascalduez/SassyIcons)

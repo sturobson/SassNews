@@ -12,13 +12,13 @@ Tags: city
 
 Text:
 
-[Building a Logger Mixin in Sass](http://webdesign.tutsplus.com/tutorials/building-a-logger-mixin-in-sass--cms-22070)
-[Responsive Spritesheets with Sass](https://medium.com/@BHouwens/responsive-spritesheets-with-sass-73d79b892725)
-[HSB Colors with Sass](http://www.sitepoint.com/hsb-colors-with-sass/)
-[Underscores WordPress Starter Theme Adds Support for Sass](http://wptavern.com/underscores-wordpress-starter-theme-adds-support-for-sass)
-[Sass name spacing with List Maps](https://medium.com/@stides303/sass-name-spacing-with-list-maps-1412b972bff2)
-[Rock solid parameter validation in Sass](https://medium.com/@marcmintel/validating-parameters-in-sass-a0cac60c6222)
-[@extend Compass sprites in @media queries](https://gist.github.com/shaharhesse/dc7c75979dfc1dd11e55)
-[Sass Mixins and Functions](https://github.com/airen/Sass_mixins_function)
-[Less for Sass developers](http://www.guyroutledge.co.uk/blog/less-for-sass-developers/)
-[SassDoc and Semantic Versioning](http://hugogiraudel.com/2014/09/01/sassdoc-and-semantic-versioning/)
+- [Building a Logger Mixin in Sass](http://webdesign.tutsplus.com/tutorials/building-a-logger-mixin-in-sass--cms-22070)
+- [Responsive Spritesheets with Sass](https://medium.com/@BHouwens/responsive-spritesheets-with-sass-73d79b892725)
+- [HSB Colors with Sass](http://www.sitepoint.com/hsb-colors-with-sass/)
+- [Underscores WordPress Starter Theme Adds Support for Sass](http://wptavern.com/underscores-wordpress-starter-theme-adds-support-for-sass)
+- [Sass name spacing with List Maps](https://medium.com/@stides303/sass-name-spacing-with-list-maps-1412b972bff2)
+- [Rock solid parameter validation in Sass](https://medium.com/@marcmintel/validating-parameters-in-sass-a0cac60c6222)
+- [@extend Compass sprites in @media queries](https://gist.github.com/shaharhesse/dc7c75979dfc1dd11e55)
+- [Sass Mixins and Functions](https://github.com/airen/Sass_mixins_function)
+- [Less for Sass developers](http://www.guyroutledge.co.uk/blog/less-for-sass-developers/)
+- [SassDoc and Semantic Versioning](http://hugogiraudel.com/2014/09/01/sassdoc-and-semantic-versioning/)

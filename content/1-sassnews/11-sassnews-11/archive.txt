@@ -11,11 +11,11 @@ Tags: city
 ----
 
 Text:
-[Sass Bites #31 - Hampton Catlin, Camp Sass and Libsass ](https://www.youtube.com/watch?v=sZnnbjE_GeE)
-[Our CSS/Sass Project Architecture and Styleguide](https://blog.groupbuddies.com/posts/32-our-css-sass-project-architecture-and-styleguide)
-[Using Sass & Compass Vertical Rhythm to set up typography defaults in a project.](https://medium.com/@amlinarev/using-sass-compass-vertical-rhythm-to-set-up-typography-defaults-in-a-project-34fe2f1d2c02)
-[Getting the most out of Sass placeholders](http://hugogiraudel.com/2014/03/31/getting-the-most-out-of-sass-placeholders/)
-[Pushing Sass placeholders further](http://hugogiraudel.com/2014/04/01/pushing-sass-placeholders-further/)
-[A Creative Grid System With Sass and calc()](http://www.sitepoint.com/creative-grid-system-sass-calc/)
-[View Sass line numbers in Chrome Dev Tools](https://www.jamestease.co.uk/blether/view-sass-line-numbers-and-file-in-chrome-dev-tools)
-[Pure CSS Taj Mahal](http://codepen.io/jannypie/pen/kbdDg?editors=110)
+- [Sass Bites #31 - Hampton Catlin, Camp Sass and Libsass ](https://www.youtube.com/watch?v=sZnnbjE_GeE)
+- [Our CSS/Sass Project Architecture and Styleguide](https://blog.groupbuddies.com/posts/32-our-css-sass-project-architecture-and-styleguide)
+- [Using Sass & Compass Vertical Rhythm to set up typography defaults in a project.](https://medium.com/@amlinarev/using-sass-compass-vertical-rhythm-to-set-up-typography-defaults-in-a-project-34fe2f1d2c02)
+- [Getting the most out of Sass placeholders](http://hugogiraudel.com/2014/03/31/getting-the-most-out-of-sass-placeholders/)
+- [Pushing Sass placeholders further](http://hugogiraudel.com/2014/04/01/pushing-sass-placeholders-further/)
+- [A Creative Grid System With Sass and calc()](http://www.sitepoint.com/creative-grid-system-sass-calc/)
+- [View Sass line numbers in Chrome Dev Tools](https://www.jamestease.co.uk/blether/view-sass-line-numbers-and-file-in-chrome-dev-tools)
+- [Pure CSS Taj Mahal](http://codepen.io/jannypie/pen/kbdDg?editors=110)

@@ -12,13 +12,13 @@ Tags: city
 
 Text:
 
-[Transitioning to SCSS at Scale](https://codeascraft.com/2015/02/02/transitioning-to-scss-at-scale/)
-[CSS Tricks - Sass Snippets](https://css-tricks.com/snippets/sass/)
-[@include-media](http://include-media.com/)
-[Vector Graphics in Sass](Vector Graphics in Sass)
-[Translating Sass Guidelines](http://hugogiraudel.com/2015/02/03/translating-sass-guidelines/)
-[Sass Basics: The Function Directive](http://www.sitepoint.com/sass-basics-function-directive/)
-[Sass Bites #66 - Front-end Architecture with Smith Schwartz](https://www.youtube.com/watch?v=NGvKoGZd3Ng)
-[Mapping Icon Fonts with Sass](http://webdevstudios.com/2015/01/28/mapping-icon-fonts-with-sass/)
-[Learning Sass With CodePen, Part Four: Color](https://demosthenes.info/blog/982/Learning-Sass-With-CodePen-Part-Four-Color)
-[Learning Sass With CodePen, Part Five: Comments and Minification](https://demosthenes.info/blog/983/Learning-Sass-With-CodePen-Part-Five-Comments-and-Minification)
+- [Transitioning to SCSS at Scale](https://codeascraft.com/2015/02/02/transitioning-to-scss-at-scale/)
+- [CSS Tricks - Sass Snippets](https://css-tricks.com/snippets/sass/)
+- [@include-media](http://include-media.com/)
+- [Vector Graphics in Sass](Vector Graphics in Sass)
+- [Translating Sass Guidelines](http://hugogiraudel.com/2015/02/03/translating-sass-guidelines/)
+- [Sass Basics: The Function Directive](http://www.sitepoint.com/sass-basics-function-directive/)
+- [Sass Bites #66 - Front-end Architecture with Smith Schwartz](https://www.youtube.com/watch?v=NGvKoGZd3Ng)
+- [Mapping Icon Fonts with Sass](http://webdevstudios.com/2015/01/28/mapping-icon-fonts-with-sass/)
+- [Learning Sass With CodePen, Part Four: Color](https://demosthenes.info/blog/982/Learning-Sass-With-CodePen-Part-Four-Color)
+- [Learning Sass With CodePen, Part Five: Comments and Minification](https://demosthenes.info/blog/983/Learning-Sass-With-CodePen-Part-Five-Comments-and-Minification)

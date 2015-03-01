@@ -12,11 +12,11 @@ Tags: city
 
 Text:
 
-[Migrating Your Team to Sass](http://www.sitepoint.com/migrating-team-sass/)
-[Passing Your Sass to Someone Sass-less](http://www.sitepoint.com/passing-your-sass-to-someone-sass-less/)
-[Getting started with Sass](http://www.doodlebugmarketing.co.uk/2014/11/code-corner-vol-04-getting-started-sass/)
-[Working with Sass Stylesheets in ASP.NET MVC Applications and Visual Studio](https://blog.mariusschulz.com/2014/11/16/working-with-sass-stylesheets-in-asp-net-mvc-applications-and-visual-studio)
-[Don’t Over-@extend Yourself in Sass (Or: There’s a Class for That!)](http://pressupinc.com/blog/2014/11/dont-overextend-yourself-in-sass/)
-[25 Fresh Resources for a Sass User](http://designposts.net/25-fresh-resources-sass-user/)
-[Include CSS Fonts by Using a SASS each Loop](http://www.oliverdavies.co.uk/blog/include-css-fonts-using-sass-each-loop)
-[Getting started with Grunt, Sass and Task Runner Explorer - Visual Studio](http://www.iambacon.co.uk/blog/getting-started-with-grunt-sass-and-task-runner-explorer-visual-studio)
+- [Migrating Your Team to Sass](http://www.sitepoint.com/migrating-team-sass/)
+- [Passing Your Sass to Someone Sass-less](http://www.sitepoint.com/passing-your-sass-to-someone-sass-less/)
+- [Getting started with Sass](http://www.doodlebugmarketing.co.uk/2014/11/code-corner-vol-04-getting-started-sass/)
+- [Working with Sass Stylesheets in ASP.NET MVC Applications and Visual Studio](https://blog.mariusschulz.com/2014/11/16/working-with-sass-stylesheets-in-asp-net-mvc-applications-and-visual-studio)
+- [Don’t Over-@extend Yourself in Sass (Or: There’s a Class for That!)](http://pressupinc.com/blog/2014/11/dont-overextend-yourself-in-sass/)
+- [25 Fresh Resources for a Sass User](http://designposts.net/25-fresh-resources-sass-user/)
+- [Include CSS Fonts by Using a SASS each Loop](http://www.oliverdavies.co.uk/blog/include-css-fonts-using-sass-each-loop)
+- [Getting started with Grunt, Sass and Task Runner Explorer - Visual Studio](http://www.iambacon.co.uk/blog/getting-started-with-grunt-sass-and-task-runner-explorer-visual-studio)

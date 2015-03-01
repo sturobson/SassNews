@@ -12,11 +12,11 @@ Tags: city
 
 Text:
 
-[Sass Mixin Or Placeholder?](http://www.sitepoint.com/sass-mixin-placeholder/)
-[Sass Bites #23: Sass 3.3 Grab Bag](https://www.youtube.com/watch?v=ONZ1NSfKGJU)
-[Learning Sass: A Beginners Guide To Sass](http://www.1stwebdesigner.com/learning-sass/)
-[Generate Safe Text Colors with Sass](http://blog.benjamincharity.com/generate-safe-text-colors-with-sass/)
-[Organizing code when using Modernizr and Sass](http://naxoc.net/2014/01/15/organizing-code-when-using-modernizr-and-scss/)
-[A Tale of Front-end Sanity: Beware the Sass @import](http://blog.teamtreehouse.com/tale-front-end-sanity-beware-sass-import)
-[Compass Compiling and WordPress Themes](https://css-tricks.com/compass-compiling-and-wordpress-themes/)
-[Cross-Platform Sass and Compass in WordPress](http://code.tutsplus.com/tutorials/cross-platform-sass-and-compass-in-wordpress--wp-30611)
+- [Sass Mixin Or Placeholder?](http://www.sitepoint.com/sass-mixin-placeholder/)
+- [Sass Bites #23: Sass 3.3 Grab Bag](https://www.youtube.com/watch?v=ONZ1NSfKGJU)
+- [Learning Sass: A Beginners Guide To Sass](http://www.1stwebdesigner.com/learning-sass/)
+- [Generate Safe Text Colors with Sass](http://blog.benjamincharity.com/generate-safe-text-colors-with-sass/)
+- [Organizing code when using Modernizr and Sass](http://naxoc.net/2014/01/15/organizing-code-when-using-modernizr-and-scss/)
+- [A Tale of Front-end Sanity: Beware the Sass @import](http://blog.teamtreehouse.com/tale-front-end-sanity-beware-sass-import)
+- [Compass Compiling and WordPress Themes](https://css-tricks.com/compass-compiling-and-wordpress-themes/)
+- [Cross-Platform Sass and Compass in WordPress](http://code.tutsplus.com/tutorials/cross-platform-sass-and-compass-in-wordpress--wp-30611)

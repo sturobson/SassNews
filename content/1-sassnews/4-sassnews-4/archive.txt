@@ -12,11 +12,11 @@ Tags: city
 
 Text:
 
-[What Nobody Told You About Sass’s @extend](http://www.sitepoint.com/sass-extend-nobody-told-you/)
-[Sass Bites #24: Bundler and Sass Frameworks/Extensions](https://www.youtube.com/watch?v=Ra_r_eXtm2w)
-[Adding Custom UI Themes to WordPress Admin Using Sass](http://code.tutsplus.com/articles/adding-custom-ui-themes-to-wordpress-admin-using-sass--wp-34653)
-[A Change in Plans For Sass 3.3](http://nex3.roughdraft.io/8050187-)
-[Simple SCSS spinner animation](http://red-team-design.com/simple-scss-spinner-animation/)
-[Pure CSS rotating curvy stretchy surface](http://codepen.io/thebabydino/details/dlGJI)
-[Simtip](http://arashm.net/lab/simptip/)
-[Clean Sticky Footer SCSS Mixin](http://codepen.io/zoerooney/pen/vtdFw)
+- [What Nobody Told You About Sass’s @extend](http://www.sitepoint.com/sass-extend-nobody-told-you/)
+- [Sass Bites #24: Bundler and Sass Frameworks/Extensions](https://www.youtube.com/watch?v=Ra_r_eXtm2w)
+- [Adding Custom UI Themes to WordPress Admin Using Sass](http://code.tutsplus.com/articles/adding-custom-ui-themes-to-wordpress-admin-using-sass--wp-34653)
+- [A Change in Plans For Sass 3.3](http://nex3.roughdraft.io/8050187-)
+- [Simple SCSS spinner animation](http://red-team-design.com/simple-scss-spinner-animation/)
+- [Pure CSS rotating curvy stretchy surface](http://codepen.io/thebabydino/details/dlGJI)
+- [Simtip](http://arashm.net/lab/simptip/)
+- [Clean Sticky Footer SCSS Mixin](http://codepen.io/zoerooney/pen/vtdFw)

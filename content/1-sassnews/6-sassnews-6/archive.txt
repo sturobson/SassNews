@@ -11,13 +11,13 @@ Tags: city
 ----
 
 Text:
-[BootCamp: Jasmine-style BDD testing written in Sass for Sass.](http://thejameskyle.com/bootcamp/)
-[Sass Bites #26 - Scott Kellum, Modular Scale and Color Schemer](https://www.youtube.com/watch?v=mNRSgv9iXMI)
-[Using Bootstrap 3 With Sass](http://www.hongkiat.com/blog/bootstrap-and-sass/)
-[Star-rating widget with Sass](http://hugogiraudel.com/2014/02/24/star-rating-system-with-sass/)
-[Using Sass to generate color and box-shadow in a loop](http://creative-punch.net/2014/01/using-sass-generate-color-box-shadow-loop/)
-[Sass – An Iterative Learning Adventure](http://www.pixotech.com/sass-iterative-learning/)
-[Responsive layouts with Vaadin and Sass](https://vaadin.com/blog/-/blogs/responsive-layouts-with-vaadin-and-sass)
-[Sass Rule Layout](http://www.mikestreety.co.uk/blog/sass-rule-layout)
-[Dialog boxes with Sass 3.3 ](http://codepen.io/hugo/pen/wpyLs)
-[Friendlier colour names with Sass maps](http://erskinedesign.com/blog/friendlier-colour-names-sass-maps/)
+- [BootCamp: Jasmine-style BDD testing written in Sass for Sass.](http://thejameskyle.com/bootcamp/)
+- [Sass Bites #26 - Scott Kellum, Modular Scale and Color Schemer](https://www.youtube.com/watch?v=mNRSgv9iXMI)
+- [Using Bootstrap 3 With Sass](http://www.hongkiat.com/blog/bootstrap-and-sass/)
+- [Star-rating widget with Sass](http://hugogiraudel.com/2014/02/24/star-rating-system-with-sass/)
+- [Using Sass to generate color and box-shadow in a loop](http://creative-punch.net/2014/01/using-sass-generate-color-box-shadow-loop/)
+- [Sass – An Iterative Learning Adventure](http://www.pixotech.com/sass-iterative-learning/)
+- [Responsive layouts with Vaadin and Sass](https://vaadin.com/blog/-/blogs/responsive-layouts-with-vaadin-and-sass)
+- [Sass Rule Layout](http://www.mikestreety.co.uk/blog/sass-rule-layout)
+- [Dialog boxes with Sass 3.3 ](http://codepen.io/hugo/pen/wpyLs)
+- [Friendlier colour names with Sass maps](http://erskinedesign.com/blog/friendlier-colour-names-sass-maps/)

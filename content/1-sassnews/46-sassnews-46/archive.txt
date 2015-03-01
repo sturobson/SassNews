@@ -12,10 +12,10 @@ Tags: city
 
 Text:
 
-[An Introduction to Sass Maps: Usage and Examples](http://webdesign.tutsplus.com/tutorials/an-introduction-to-sass-maps-usage-and-examples--cms-22184)
-[A Good Front-End Architecture](http://www.sitepoint.com/good-front-end-architecture/)
-[How Evernote handles their Sass Architecture](http://blog.evernote.com/tech/2014/12/17/evernote-handles-sass-architecture/)
-[Separate Rendering Sass From Non-Rendering Sass](https://robots.thoughtbot.com/separate-rendering-sass-from-non-rendering-sass)
-[Recommendations for a Faster Workflow with Sass](http://webdesign.tutsplus.com/articles/recommendations-for-a-faster-workflow-with-sass--cms-21616)
-[Approaches to Media Queries in Sass](https://css-tricks.com/approaches-media-queries-sass/)
-[flexible.gs](http://flexible.gs/)
+- [An Introduction to Sass Maps: Usage and Examples](http://webdesign.tutsplus.com/tutorials/an-introduction-to-sass-maps-usage-and-examples--cms-22184)
+- [A Good Front-End Architecture](http://www.sitepoint.com/good-front-end-architecture/)
+- [How Evernote handles their Sass Architecture](http://blog.evernote.com/tech/2014/12/17/evernote-handles-sass-architecture/)
+- [Separate Rendering Sass From Non-Rendering Sass](https://robots.thoughtbot.com/separate-rendering-sass-from-non-rendering-sass)
+- [Recommendations for a Faster Workflow with Sass](http://webdesign.tutsplus.com/articles/recommendations-for-a-faster-workflow-with-sass--cms-21616)
+- [Approaches to Media Queries in Sass](https://css-tricks.com/approaches-media-queries-sass/)
+- [flexible.gs](http://flexible.gs/)

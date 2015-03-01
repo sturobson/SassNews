@@ -12,10 +12,10 @@ Tags: city
 
 Text:
 
-[Sass for Big Sites, Part 2](http://webstandardssherpa.com/reviews/sass-for-big-sites-part-2/)
-[SassDoc 2 – Shiny Streamy Octopus is Out!](http://www.sitepoint.com/sassdoc-2-shiny-streamy-octopus/)
-[Control vertical rhythm using Sass and Compass](http://www.developerdrive.com/2015/02/control-vertical-rhythm-using-sass-and-compass/)
-[Starting a SASS workflow with Alfred](https://medium.com/@clarklab/starting-a-sass-workflow-with-alfred-14f88903602a)
-[Why I Don’t Use Compass Anymore](http://www.sitepoint.com/dont-use-compass-anymore/)
-[Learning Sass with CodePen: Partials and @import](http://demosthenes.info/blog/984/Learning-Sass-with-CodePen-Partials-and-import)
-[Sass Bites #67 - Front-end Architecture with Jonathan Snook](https://www.youtube.com/watch?v=8bW00z9zCc8)
+- [Sass for Big Sites, Part 2](http://webstandardssherpa.com/reviews/sass-for-big-sites-part-2/)
+- [SassDoc 2 – Shiny Streamy Octopus is Out!](http://www.sitepoint.com/sassdoc-2-shiny-streamy-octopus/)
+- [Control vertical rhythm using Sass and Compass](http://www.developerdrive.com/2015/02/control-vertical-rhythm-using-sass-and-compass/)
+- [Starting a SASS workflow with Alfred](https://medium.com/@clarklab/starting-a-sass-workflow-with-alfred-14f88903602a)
+- [Why I Don’t Use Compass Anymore](http://www.sitepoint.com/dont-use-compass-anymore/)
+- [Learning Sass with CodePen: Partials and @import](http://demosthenes.info/blog/984/Learning-Sass-with-CodePen-Partials-and-import)
+- [Sass Bites #67 - Front-end Architecture with Jonathan Snook](https://www.youtube.com/watch?v=8bW00z9zCc8)

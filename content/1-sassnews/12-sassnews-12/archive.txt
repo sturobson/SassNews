@@ -11,11 +11,11 @@ Tags: city
 ----
 
 Text:
-[Removing Sass Duplication Using Sass Maps](https://robots.thoughtbot.com/removing-sass-duplication)
-[What to do with a Sass list?](http://hugogiraudel.com/2014/04/07/what-to-do-with-a-sass-list/)
-[Improving WordPress Plugin Development with Sass](http://www.charlestonsw.com/improving-wordpress-plugin-development-with-sass/)
-[Sass Bites #32 - Simple Sass Styleguides ](https://www.youtube.com/watch?v=2DzXSci0JYs)
-[Goodbye Compass](http://bensmithett.com/goodbye-compass/)
-[Use CSS3 Gradients to Create Placeholders for Images](http://www.hagenburger.net/BLOG/background-placeholders-with-gradients.html)
-[Archetype](https://github.com/linkedin/archetype)
-[Iconizr](http://iconizr.com/)
+- [Removing Sass Duplication Using Sass Maps](https://robots.thoughtbot.com/removing-sass-duplication)
+- [What to do with a Sass list?](http://hugogiraudel.com/2014/04/07/what-to-do-with-a-sass-list/)
+- [Improving WordPress Plugin Development with Sass](http://www.charlestonsw.com/improving-wordpress-plugin-development-with-sass/)
+- [Sass Bites #32 - Simple Sass Styleguides ](https://www.youtube.com/watch?v=2DzXSci0JYs)
+- [Goodbye Compass](http://bensmithett.com/goodbye-compass/)
+- [Use CSS3 Gradients to Create Placeholders for Images](http://www.hagenburger.net/BLOG/background-placeholders-with-gradients.html)
+- [Archetype](https://github.com/linkedin/archetype)
+- [Iconizr](http://iconizr.com/)

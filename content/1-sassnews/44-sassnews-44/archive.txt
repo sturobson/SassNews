@@ -12,13 +12,13 @@ Tags: city
 
 Text:
 
-[Why You Should Avoid Sass @extend](http://www.sitepoint.com/avoid-sass-extend/)
-[Large Scale Application Architecture for CSS with Sass and SMACSS](http://www.codeproject.com/Tips/843344/Large-Scale-Application-Architecture-for-CSS-with)
-[Clean colour management with Sass](https://medium.com/@ryanhavoc/clean-colour-management-with-sass-4d5e9bb4f1b2)
-[Bourbon Refills Provide Drop-In Design and Functionality](http://www.sitepoint.com/bourbon-refills-provide-drop-design-functionality/)
-[Using Sass Mixins to Manage Image Sprites](http://www.tammyhartdesigns.com/wordpress/using-sass-mixins-manage-image-sprites/)
-[Sass Bites #61 - EQ.js and component layout](https://www.youtube.com/watch?v=BydzdnK0GRM)
-[Sass Colour Variables and The Maintainability Fallacy](https://medium.com/@funzeye/sass-colour-variables-and-the-maintainability-fallacy-9b161f7b7b8c)
-[Sass Bites #62 - Visual Regression Testing with PhantomCSS](https://www.youtube.com/watch?v=00U-n127amM)
-[Looping through a data map with Libsass 3.02](http://benfrain.com/looping-data-map-libsass-3-02/)
-[Sass Import Once](https://github.com/wilsonpage/sass-import-once)
+- [Why You Should Avoid Sass @extend](http://www.sitepoint.com/avoid-sass-extend/)
+- [Large Scale Application Architecture for CSS with Sass and SMACSS](http://www.codeproject.com/Tips/843344/Large-Scale-Application-Architecture-for-CSS-with)
+- [Clean colour management with Sass](https://medium.com/@ryanhavoc/clean-colour-management-with-sass-4d5e9bb4f1b2)
+- [Bourbon Refills Provide Drop-In Design and Functionality](http://www.sitepoint.com/bourbon-refills-provide-drop-design-functionality/)
+- [Using Sass Mixins to Manage Image Sprites](http://www.tammyhartdesigns.com/wordpress/using-sass-mixins-manage-image-sprites/)
+- [Sass Bites #61 - EQ.js and component layout](https://www.youtube.com/watch?v=BydzdnK0GRM)
+- [Sass Colour Variables and The Maintainability Fallacy](https://medium.com/@funzeye/sass-colour-variables-and-the-maintainability-fallacy-9b161f7b7b8c)
+- [Sass Bites #62 - Visual Regression Testing with PhantomCSS](https://www.youtube.com/watch?v=00U-n127amM)
+- [Looping through a data map with Libsass 3.02](http://benfrain.com/looping-data-map-libsass-3-02/)
+- [Sass Import Once](https://github.com/wilsonpage/sass-import-once)

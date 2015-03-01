@@ -12,13 +12,13 @@ Tags: city
 
 Text:
 
-[How to Use Susy with Bootstrap](http://www.sitepoint.com/use-susy-bootstrap/)
-[Sass Multiple Arguments, Lists or Arglist](http://www.sitepoint.com/sass-multiple-arguments-lists-or-arglist/)
-[Stop Using Needless Sass Mixins](http://jdsteinbach.com/css/sass/stop-using-worthless-sass-mixins/)
-[Tracy Rotton: Getting Sassy with WordPress](http://wordpress.tv/2014/11/11/tracy-rotton-getting-sassy-with-wordpress/)
-[When to use @extend; when to use a mixin](http://csswizardry.com/2014/11/when-to-use-extend-when-to-use-a-mixin/)
-[Sass for Context Aware CSS and Style Guide CSS Regression Testing](http://peteschuster.com/2014/11/sass-context-aware-css-style-guide-css-regression-testing/)
-[An Introduction to Sass Mixins - The Blog!](http://codepen.io/seanseansean/blog/beginner-level-sass-the-blog)
-[Simplify Your Media Queries with Sass “Breakpoint”](http://webdesign.tutsplus.com/tutorials/simplify-your-media-queries-with-sass-breakpoint--cms-22706)
-[Herow](https://github.com/tzi/Herow)
-[Sassy Suit](https://github.com/SassySuit/sassy-suit)
+- [How to Use Susy with Bootstrap](http://www.sitepoint.com/use-susy-bootstrap/)
+- [Sass Multiple Arguments, Lists or Arglist](http://www.sitepoint.com/sass-multiple-arguments-lists-or-arglist/)
+- [Stop Using Needless Sass Mixins](http://jdsteinbach.com/css/sass/stop-using-worthless-sass-mixins/)
+- [Tracy Rotton: Getting Sassy with WordPress](http://wordpress.tv/2014/11/11/tracy-rotton-getting-sassy-with-wordpress/)
+- [When to use @extend; when to use a mixin](http://csswizardry.com/2014/11/when-to-use-extend-when-to-use-a-mixin/)
+- [Sass for Context Aware CSS and Style Guide CSS Regression Testing](http://peteschuster.com/2014/11/sass-context-aware-css-style-guide-css-regression-testing/)
+- [An Introduction to Sass Mixins - The Blog!](http://codepen.io/seanseansean/blog/beginner-level-sass-the-blog)
+- [Simplify Your Media Queries with Sass “Breakpoint”](http://webdesign.tutsplus.com/tutorials/simplify-your-media-queries-with-sass-breakpoint--cms-22706)
+- [Herow](https://github.com/tzi/Herow)
+- [Sassy Suit](https://github.com/SassySuit/sassy-suit)

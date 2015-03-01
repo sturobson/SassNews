@@ -12,9 +12,9 @@ Tags: city
 
 Text:
 
-[Sass Functions to Kick-Start Your Style Sheets](http://www.sitepoint.com/sass-functions-kick-start-style-sheets/)
-[Creating SVG Sprites using Gulp and Sass](https://www.liquidlight.co.uk/blog/article/creating-svg-sprites-using-gulp-and-sass/)
-[15 essential Sass mixins](http://www.developerdrive.com/2014/11/15-essential-sass-mixins/)
-[Managing responsive typography with Sass](http://maketea.co.uk/2014/11/05/managing-responsive-typography-with-sass.html)
-[An Overview of Compass 1.0](http://www.sitepoint.com/an-overview-compass-1-0/)
-[SuperGradient](http://super-gradient.ib.gs/)
+- [Sass Functions to Kick-Start Your Style Sheets](http://www.sitepoint.com/sass-functions-kick-start-style-sheets/)
+- [Creating SVG Sprites using Gulp and Sass](https://www.liquidlight.co.uk/blog/article/creating-svg-sprites-using-gulp-and-sass/)
+- [15 essential Sass mixins](http://www.developerdrive.com/2014/11/15-essential-sass-mixins/)
+- [Managing responsive typography with Sass](http://maketea.co.uk/2014/11/05/managing-responsive-typography-with-sass.html)
+- [An Overview of Compass 1.0](http://www.sitepoint.com/an-overview-compass-1-0/)
+- [SuperGradient](http://super-gradient.ib.gs/)

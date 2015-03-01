@@ -12,10 +12,10 @@ Tags: city
 
 Text:
 
-[Managing relationships between colours with Sass](http://maketea.co.uk/2014/07/21/managing-relationships-between-colours-with-sass.html)
-[Sass in Drupal](http://www.codeproject.com/Articles/723710/Sass-in-Drupal)
-[Automating CSS animations with Sass](http://hugogiraudel.com/2014/07/16/automating-css-animations-with-sass/)
-[OOCSS, BEM and the mighty Sass... 3.3](http://antonsamper.ghost.io/oocss-bem-and-the-mighty-sass-3-3/)
-[Day 6 @MakerSquare: Getting Sassy with layouts](https://justinlillys.wordpress.com/2014/07/22/day-6-makersquare-getting-sassy-with-layouts/?sf28832028=1)
-[Ask DN: What are your little Sass/LESS time savers?](https://news.layervault.com/stories/28802-ask-dn-what-are-your-little-sassless-time-savers)
-[Sass compilation with “grunt”](http://jforjs.com/sass-compilation-with-grunt/)
+- [Managing relationships between colours with Sass](http://maketea.co.uk/2014/07/21/managing-relationships-between-colours-with-sass.html)
+- [Sass in Drupal](http://www.codeproject.com/Articles/723710/Sass-in-Drupal)
+- [Automating CSS animations with Sass](http://hugogiraudel.com/2014/07/16/automating-css-animations-with-sass/)
+- [OOCSS, BEM and the mighty Sass... 3.3](http://antonsamper.ghost.io/oocss-bem-and-the-mighty-sass-3-3/)
+- [Day 6 @MakerSquare: Getting Sassy with layouts](https://justinlillys.wordpress.com/2014/07/22/day-6-makersquare-getting-sassy-with-layouts/?sf28832028=1)
+- [Ask DN: What are your little Sass/LESS time savers?](https://news.layervault.com/stories/28802-ask-dn-what-are-your-little-sassless-time-savers)
+- [Sass compilation with “grunt”](http://jforjs.com/sass-compilation-with-grunt/)

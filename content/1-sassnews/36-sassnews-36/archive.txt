@@ -12,13 +12,13 @@ Tags: city
 
 Text:
 
-[How to Use Sass to Build One Project With Multiple Themes](http://webdesign.tutsplus.com/tutorials/how-to-use-sass-to-build-one-project-with-multiple-themes--cms-22104)
-[Easy color-schemes with Sass (SCSS)](http://codepen.io/pixelass/pen/roLBF)
-[Adding Bitters to Bourbon and Sass](http://www.sitepoint.com/adding-bitters-to-bourbon-and-sass/)
-[4 Sass Features You May Not Have Tried](http://www.sitepoint.com/sass-features-may-never-tried/)
-[Sass Bites #56 - Grunt Continues - Connect and Includes](https://www.youtube.com/watch?v=xTN6KnSdVvE)
-[Contextual heading sizes with Sass](http://codepen.io/zgreen/blog/contextual-heading-sizes-with-sass)
-[Sass Manifesto - Felicity Evans](https://www.youtube.com/watch?v=M0Kp42kQFN4)
-[WordPress – Up and Running with Grunt, Sass, Bourbon and Neat](http://webdevstudios.com/2014/10/09/wordpress-up-and-running-with-grunt-sass-bourbon-and-neat/)
-[Sass-based Grid Systems: How to Split Columns, not Hairs](http://www.noupe.com/design/sass-based-grid-systems-how-to-split-columns-not-hairs-85138.html)
-[Finding my way back to CSS without ditching Sass completely](http://martinwolf.org/2014/10/08/finding-my-way-back-to-css-without-ditching-sass-completely/)
+- [How to Use Sass to Build One Project With Multiple Themes](http://webdesign.tutsplus.com/tutorials/how-to-use-sass-to-build-one-project-with-multiple-themes--cms-22104)
+- [Easy color-schemes with Sass (SCSS)](http://codepen.io/pixelass/pen/roLBF)
+- [Adding Bitters to Bourbon and Sass](http://www.sitepoint.com/adding-bitters-to-bourbon-and-sass/)
+- [4 Sass Features You May Not Have Tried](http://www.sitepoint.com/sass-features-may-never-tried/)
+- [Sass Bites #56 - Grunt Continues - Connect and Includes](https://www.youtube.com/watch?v=xTN6KnSdVvE)
+- [Contextual heading sizes with Sass](http://codepen.io/zgreen/blog/contextual-heading-sizes-with-sass)
+- [Sass Manifesto - Felicity Evans](https://www.youtube.com/watch?v=M0Kp42kQFN4)
+- [WordPress – Up and Running with Grunt, Sass, Bourbon and Neat](http://webdevstudios.com/2014/10/09/wordpress-up-and-running-with-grunt-sass-bourbon-and-neat/)
+- [Sass-based Grid Systems: How to Split Columns, not Hairs](http://www.noupe.com/design/sass-based-grid-systems-how-to-split-columns-not-hairs-85138.html)
+- [Finding my way back to CSS without ditching Sass completely](http://martinwolf.org/2014/10/08/finding-my-way-back-to-css-without-ditching-sass-completely/)
