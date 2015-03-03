@@ -68,3 +68,12 @@ c::set('subfolder', false);
 //     }
 //   )
 // ));
+c::set('languages', array(
+    array(
+        'code'    => 'en',
+        'name'    => 'English',
+        'locale'  => 'en_US',
+        'default' => true,
+        'url'     => '/'
+    )
+));
