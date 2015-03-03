@@ -22,7 +22,7 @@
       <?php echo $page->text()->kirbytext() ?>
     </div>
     <div class="latest">
-      <h2>The Latest Issue</h2>
+      <h2>Last Weeks Issue</h2>
       <?php snippet('latest') ?>
     </div>
   </main>

@@ -2,7 +2,7 @@ Title: Sass News
 
 ----
 
-Author: Stuart Robson
+Author: Stu Robson
 
 ----
 
@@ -14,4 +14,4 @@ Keywords: Sass, Sass News, SCSS
 
 ----
 
-Copyright: © 2009-(date: Year) (link: http://alwaystwisted.com text: Stuart Robson)
+Copyright: © 2009-(date: Year) (link: http://alwaystwisted.com text: Stu Robson)

@@ -7,7 +7,7 @@
         <a href="http://getkirby.com/made-with-kirby-and-love">Made using Kirby</a>
     </div>
     <div class="curator">
-      <p>Sass News is a weekly newsletter edited, curated and published by <a href="http://www.alwaystwisted.com">Stuart Robson</a></p>
+      <p>Sass News is a weekly newsletter edited, curated and published by <a href="http://www.alwaystwisted.com">Stu Robson</a></p>
     </div>
 
 </footer>
