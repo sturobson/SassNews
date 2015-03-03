@@ -2,11 +2,7 @@ Title: Sass News #25
 
 ----
 
-Year: 2013
-
-----
-
-Tags: city
+Published: 9th July 2014
 
 ----
 

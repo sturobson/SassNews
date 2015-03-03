@@ -2,11 +2,7 @@ Title: Sass News #9
 
 ----
 
-Year: 2013
-
-----
-
-Tags: city
+Published: 19th March 2014
 
 ----
 

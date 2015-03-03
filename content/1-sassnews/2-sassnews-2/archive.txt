@@ -2,13 +2,10 @@ Title: Sass News #2
 
 ----
 
-Year: 2013
+Published: 29th January 2014
 
 ----
 
-Tags: city
-
-----
 
 Text:
 

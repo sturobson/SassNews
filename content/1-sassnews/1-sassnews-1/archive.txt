@@ -2,7 +2,11 @@ Title: Sass News #1
 
 ----
 
-Text: 
+Published: 22nd January 2014
+
+----
+
+Text:
 
 - [Sassier (BE)Modifiers](http://viget.com/extend/bem-sass-modifiers)
 - [SassyJSON: Talk To The Browser](http://hugogiraudel.com/2014/01/20/json-in-sass/)

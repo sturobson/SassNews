@@ -2,11 +2,7 @@ Title: Sass News #52
 
 ----
 
-Year: 2013
-
-----
-
-Tags: city
+Published: 11th February 2015
 
 ----
 

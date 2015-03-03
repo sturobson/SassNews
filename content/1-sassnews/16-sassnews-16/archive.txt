@@ -2,11 +2,7 @@ Title: Sass News #16
 
 ----
 
-Year: 2013
-
-----
-
-Tags: city
+Published: 7th May 2014
 
 ----
 

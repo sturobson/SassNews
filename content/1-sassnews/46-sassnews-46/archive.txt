@@ -2,11 +2,7 @@ Title: Sass News #46
 
 ----
 
-Year: 2013
-
-----
-
-Tags: city
+Published: 31st December 2014
 
 ----
 

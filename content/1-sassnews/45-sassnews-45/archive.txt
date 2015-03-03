@@ -2,11 +2,7 @@ Title: Sass News #45
 
 ----
 
-Year: 2013
-
-----
-
-Tags: city
+Published: 24th December 2014
 
 ----
 

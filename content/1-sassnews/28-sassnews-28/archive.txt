@@ -2,11 +2,7 @@ Title: Sass News #28
 
 ----
 
-Year: 2013
-
-----
-
-Tags: city
+Published: 30th July 2014
 
 ----
 
