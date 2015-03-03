@@ -27,5 +27,6 @@
     <a class="logo" href="<?php echo url() ?>">
       Sass News
     </a>
+    <a class="twitter" href="http:/www.twitter.com/SassNews">Twitter</a>
     <?php snippet('menu') ?>
   </header>
