@@ -50,7 +50,10 @@ c::set('routes', array(
   )
 ));
 
+c::set('url', false);
 
+
+c::set('subfolder', false);
 // c::set('routes', array(
 //   array(
 //     'pattern' => 'sassnews',

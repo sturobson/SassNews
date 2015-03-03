@@ -1,8 +1,8 @@
 <?php
 
 $form = new contactform(array(
-  'to'       => 'John <john@yourdomain.com>',
-  'from'     => 'Contact Form <contact@yourdomain.com>',
+  'to'       => 'John <yo@sassnews.com>',
+  'from'     => 'Contact Form <yo@sassnews.com>',
   'subject'  => 'New contact form request',
   'goto'     => $page->url() . '/status:thank-you'
 ));
@@ -25,11 +25,6 @@ $form = new contactform(array(
       <?php elseif($form->isError()): ?>
       <div class="contactform-alert">The form could not be submitted. Please fill in all fields correctly.</div>
       <?php endif ?>
-
-      <div class="contactform-field<?php if($form->isError('name')) echo ' error' ?>">
-        <label class="contactform-label" for="contactform-name">Name <?php if($form->isError('name')): ?><small>Please enter a name</small><?php endif ?></label>
-        <input class="contactform-input" type="text" id="contactform-name" name="name" value="<?php echo $form->htmlValue('name') ?>" />
-      </div>
 
       <div class="contactform-field<?php if($form->isError('url')) echo ' error' ?>">
         <label class="contactform-label" for="contactform-email">Link <?php if($form->isRequired('url')) echo '*' ?> <?php if($form->isError('url')): ?><small>Please enter a valid url</small><?php endif ?></label>
