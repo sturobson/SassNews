@@ -21,7 +21,6 @@
     <h2 class="archive__title"><?php echo $page->title()->html() ?></h2>
     <div class="archive__meta">
       <p><strong>Published:</strong> <?php echo $page->published() ?></p>
-
     </div>
 
     <div class="archive__content">
@@ -36,7 +35,6 @@
       <?php if($prev = $page->prevVisible()): ?>
         <a class="next" href="<?php echo $prev->url() ?>">&larr; prev</a>
       <?php endif ?>
-
     </nav>
 
   </main>
